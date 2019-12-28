@@ -1,0 +1,10 @@
+[package]
+name = "lazy_transform"
+version = "0.1.0"
+authors = ["Hrvoje Niksic <hniksic@gmail.com>"]
+
+[dependencies]
+coco = "0.2.1"
+crossbeam = "0.3.0"
+time = "0.1"
+rand = "0.3"
